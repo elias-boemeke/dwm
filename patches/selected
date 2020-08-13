@@ -1,12 +1,16 @@
-dwm-6.2-urg-border.diff
+# bling
 dwm-actualfullscreen-20191112-cb3f58a.diff
 dwm-alpha-20180613-b69c870.diff
-dwm-ewmhtags-20180101-db22360.diff
-dwm-fixborders-6.2.diff
-dwm-notitle-6.2.diff
-dwm-smartborders-6.2.diff
 dwm-sticky-20160911-ab9571b.diff
 dwm-swallow-20200707-8d1e703.diff
+dwm-smartborders-6.2.diff
+dwm-6.2-urg-border.diff
+
+# customization
 dwm-xresources-6.2.diff
+
+# to make polybar work
+dwm-anybar-polybar-tray-fix-20200721-bb2e722.diff
+dwm-ipc-20200729-f04cac6.diff
 
 
