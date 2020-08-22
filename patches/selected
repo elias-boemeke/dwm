@@ -10,6 +10,7 @@ dwm-6.2-urg-border.diff
 dwm-xresources-6.2.diff
 
 # to make polybar work
+dwm-autostart-20200610-cb3f58a.diff
 dwm-anybar-polybar-tray-fix-20200721-bb2e722.diff
 dwm-ipc-20200729-f04cac6.diff
 
