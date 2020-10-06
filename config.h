@@ -116,6 +116,7 @@ static Key keys[] = {
 	{ MODKEY,               XK_BackSpace,      spawn,          SHCMD("poweroff") },
 	{ MODKEY|ShiftMask,     XK_BackSpace,      spawn,          SHCMD("reboot") },
         { MODKEY,                       XK_w,      spawn,          SHCMD("$BROWSER") },
+        { MODKEY|ShiftMask,             XK_w,      spawn,          SHCMD("$BROWSER --incognito") },
         { MODKEY,                       XK_e,      spawn,          SHCMD("thunderbird") },
         { MODKEY,                       XK_n,      spawn,          SHCMD("st -e newsboat") },
         { MODKEY|ShiftMask,             XK_m,      spawn,          SHCMD("st -e ncmpcpp") },
